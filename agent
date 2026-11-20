@@ -1,0 +1,10 @@
+
+1.2 Reflex agent	Reacts to each performance reading with rules, such as an urgent-deadline or weak-coding action
+2.1 Concurrent agent	Keeps sensing (coding, drives, aptitude) in the background while it keeps reporting
+2.2 Client and server	Student agent sends its profile to the placement cell, which checks eligibility
+3.1 Negotiation	Student agent negotiates a mock-interview contract with three mentors
+3.2 Utility optimiser	Student agent chooses the best training package within budget and time
+4.1 BDI agent	Student agent changes its plan when the drive date changes
+4.2 Knowledge and API	Student agent uses prerequisites and live GitHub and weather data to adjust the plan
+5.1 Secure agent	Agent accepts commands only from trusted, signed, fresh messages
+5.2 Capstone	All the above combined in one running agent with a live dashboard
